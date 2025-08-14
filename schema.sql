@@ -1,0 +1,6 @@
+SHOW DATABASES;
+
+USE delta_app;
+
+SHOW TABLES;
+
